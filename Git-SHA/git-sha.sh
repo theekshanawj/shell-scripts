@@ -10,6 +10,8 @@
 #			Format: origin/master
 #	3. Directory
 #			Format: /home/scripts
+#
+#	Author: Theekshana Wijesinghe
 ##
 
 
