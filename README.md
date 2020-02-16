@@ -5,6 +5,6 @@ Utility shell scripts
 
 This is a script to get the Git-SHA of a specified Git repository and specified branch
 
-[Script](https://github.com/theekshanawj/shell-scripts/blob/master/Git%20SHA/git-sha.sh)
+[Script](https://github.com/theekshanawj/shell-scripts/blob/master/Git-SHA/git-sha.sh)
 
-[Read Me](https://github.com/theekshanawj/shell-scripts/blob/master/Git%20SHA/README.md)
+[Read Me](https://github.com/theekshanawj/shell-scripts/blob/master/Git-SHA/README.md)
